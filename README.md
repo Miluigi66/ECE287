@@ -1,3 +1,6 @@
 # ECE287
 This is a folder to hold all files for ECE287 Labs. \
 This is programed in Verilog and on a FPGA the DE1-SOC (Cyclone V SoC 5CSEMA5F31C6).
+\
+\
+Credit to Dr. Jamieson for the Pin set up and Lab problems.
